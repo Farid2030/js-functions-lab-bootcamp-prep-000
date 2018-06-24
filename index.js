@@ -2,4 +2,3 @@
 function happyHolidays(){
   return "happy  holidays!"
 }
-console.log
